@@ -95,7 +95,7 @@ body{
 	margin-left: 2%;
 	display: inline-block;
 	position: absolute;
-	font-size: 16pt;
+	font-size: 14pt;
 	font-family:  monospace;
 	margin-right: 2%;
 	padding: 0;
@@ -119,4 +119,8 @@ Footer{
 .links{
 	padding-left: 30px ;
 
+}
+
+.links:hover{
+	opacity: 80%;
 }

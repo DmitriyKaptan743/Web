@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&display=swap');
 body{
-	background: #FFF;
+	background: #b8b5ff;
 	margin: 0;
 	padding: 0;
 }
@@ -81,16 +81,19 @@ body{
 }
 
 .MainText{
-	margin-top: 15%;
+	margin-top: 10%;
 	display: inline-block;
 	margin-left: 5%;
 	position: absolute;
-	font-size: 16pt;
+	font-size: 18pt;
 	font-family:  monospace;
 	margin-right: 2%;
 	background: #f1f1f1;
 	width: 90%;
-	height: 500px;
+	height: 700px;
 	border-radius: 20px;
 	border: ridge 3px black;
+	padding-right: 10px;
+	padding-left: 10px;
 }
+
