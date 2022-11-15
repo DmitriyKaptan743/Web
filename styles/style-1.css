@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&display=swap');
 body{
-	background: #b8b5ff;
+	background-image: url("../image/4.jpg");
 	margin: 0;
 	padding: 0;
 }
@@ -69,17 +69,6 @@ body{
 }
 
 
-.txt{
-	display: inline-block;
-	position: absolute;
-	margin-left: 2%;
-	padding: 0;
-	margin-top: 8%;
-	font-family: 'Abel', sans-serif;
-	font-size: 20pt;
-	text-transform: uppercase;
-}
-
 .MainText{
 	margin-top: 10%;
 	display: inline-block;
@@ -95,5 +84,6 @@ body{
 	border: ridge 3px black;
 	padding-right: 10px;
 	padding-left: 10px;
+	opacity: 85%;
 }
 
